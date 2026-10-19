@@ -1,4 +1,4 @@
-# Breast Cancer Diagnosis Dashboard (Streamlit + FastAPI)
+# Breast Cancer Diagnosis Dashboard (Streamlit Lab)
 
 An interactive **Streamlit** dashboard for a breast cancer classification model served by a **FastAPI** backend. Users can enter 30 tumor measurements with sliders or a JSON file, score whole CSV files in one go, and explore model metrics, all from the browser.
 
