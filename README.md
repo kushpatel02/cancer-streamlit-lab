@@ -230,6 +230,9 @@ tests/test_dashboard.py::test_pages_render[2_Model_Insights.py] PASSED
 **Dashboard: single prediction**
 ![Dashboard](assets/dashboard.png)
 
+**Test file upload prediction: test.json**
+![TestPrediction](assets/testjson.png)
+
 **Batch prediction**
 ![Batch](assets/batch.png)
 
